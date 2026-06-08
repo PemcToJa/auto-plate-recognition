@@ -1,6 +1,10 @@
 # License Plate AI: System Wizyjny do Rozpoznawania tablic rejestracyjnych
 **Temat:** Lokalizacja i ekstrakcja tekstu z tablic rejestracyjnych pojazdów w czasie rzeczywistym.
+
 **Autor:** Przemysław Rządkowski
+
+**Dataset:** [Large-License-Plate-Detection-Dataset](https://www.kaggle.com/datasets/fareselmenshawii/large-license-plate-dataset)
+
 ---
 
 ## 1. Opis projektu i filozofia architektury
